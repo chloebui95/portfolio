@@ -19,7 +19,8 @@ This PowerBI dashboard demonstrates how data visualization can be used to analyz
 
 <img src="images/powerbi_report_view.png?raw=true"/>
 
-[![](https://img.shields.io/badge/powerbi-PowerBI-yellow?logo=powerbi)](#)
+[![](https://img.shields.io/badge/PowerBI-white?logo=powerbi)](#)
+
 [View Dashboard on PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTc0NTJiZDEtNmQzZS00ODNhLThiYWYtMzdjMzg1ZTczZGYwIiwidCI6IjE1NTFmMjY3LTQ1NzAtNGViMy04NzhlLTFlN2FlNDI1MjE4OCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0c68c706183b0931935c)
 
 
