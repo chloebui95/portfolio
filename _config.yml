@@ -1,14 +1,15 @@
 title: Chloe Bui # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/mylogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   5+ years of commercial experience in analytics and operations strategy, with exposure to both startup and corporate environments.
   <br><br>
   A self-taught professional with a passion for approaching decision-making through data-driven methodologies.
   <br><br>
-  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
