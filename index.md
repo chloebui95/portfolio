@@ -25,7 +25,7 @@ This PowerBI dashboard demonstrates how data visualization can be used to analyz
 ---
 
 ### [Tableau Visualization](https://public.tableau.com/app/profile/bui.chloe)
-With its intuitive interface and robust features, Tableau empowers users to transform raw data into meaningful visual representations, making it an indispensable asset for individuals and organizations seeking to unlock the full potential of their data.
+Tableau enables users to transform data into impactful visualizations, empowering individuals and organizations to harness the full potential of their data. Here are some of my visualization examples with Tableau.
 
 **The Most And Least Powerful Passports 2023**
 
@@ -33,11 +33,11 @@ The visualization below, powered by Tableau, presents the visa-free access of di
 
 ***Laptop View:***
 
-<img src="images/most_powerful_passport.png?raw=true" atl="Laptop View" height="70%" width="70%" />
+<img src="images/most_powerful_passport.png?raw=true" atl="Laptop View" />
 
 ***Phone View:***
 
-<img src="images/most_powerful_passport_phone.png?raw=true" atl="Phone View" height="40%" width="50%" />
+<img src="images/most_powerful_passport_phone.png?raw=true" atl="Phone View" />
 
 [View Viz: The most & least powerful passports 2023](https://public.tableau.com/app/profile/bui.chloe/viz/2023TheWorldPassports_16872502465270/Finaldashboard?publish=yes)
 
