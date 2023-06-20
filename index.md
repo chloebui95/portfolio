@@ -31,13 +31,7 @@ Tableau enables users to transform data into impactful visualizations, empowerin
 
 The visualization below, powered by Tableau, presents the visa-free access of different countries in 2023, based on the data provided by Henley & Partners.
 
-***Laptop View:***
-
 <img src="images/most_powerful_passport.png?raw=true" atl="Laptop View" />
-
-***Phone View:***
-
-<img src="images/most_powerful_passport_phone.png?raw=true" atl="Phone View" />
 
 [View Viz: The most & least powerful passports 2023](https://public.tableau.com/app/profile/bui.chloe/viz/2023TheWorldPassports_16872502465270/Finaldashboard?publish=yes)
 
