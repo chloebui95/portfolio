@@ -18,9 +18,9 @@ This PowerBI dashboard demonstrates how data visualization can be used to analyz
 
 <img src="images/powerbi_report_view.png?raw=true"/>
 
-[![](https://img.shields.io/badge/PowerBI-white?logo=powerbi)](#)
-
 [View Dashboard on PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTc0NTJiZDEtNmQzZS00ODNhLThiYWYtMzdjMzg1ZTczZGYwIiwidCI6IjE1NTFmMjY3LTQ1NzAtNGViMy04NzhlLTFlN2FlNDI1MjE4OCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0c68c706183b0931935c)
+
+[![](https://img.shields.io/badge/PowerBI-white?logo=powerbi)](#)
 
 ---
 
@@ -33,11 +33,11 @@ The visualization below, powered by Tableau, presents the visa-free access of di
 
 ***Laptop View:***
 
-<img src=images/most_powerful_passport.png atl="Laptop View" height="70%" width="70%"></img>
+<img src="images/most_powerful_passport.png?raw=true" atl="Laptop View" height="70%" width="70%" />
 
 ***Phone View:***
 
-<img src=images/most_powerful_passport_phone.png atl="Phone View" height="40%" width="50%"></img>
+<img src="images/most_powerful_passport_phone.png?raw=true" atl="Phone View" height="40%" width="50%" />
 
 [View Viz: The most & least powerful passports 2023](https://public.tableau.com/app/profile/bui.chloe/viz/2023TheWorldPassports_16872502465270/Finaldashboard?publish=yes)
 
@@ -46,7 +46,7 @@ The visualization below, powered by Tableau, presents the visa-free access of di
 
 Vietnam has emerged as a remarkable success story in terms of development. Since the introduction of Đổi Mới in 1986, the country has undergone significant economic reforms and has capitalized on favorable global trends. Here are some key indicators that demonstrate Vietnam's development between 2010 and 2020.
 
-<img src=images/vietnam_development_indicators.png height="100%" width="100%"></img>
+<img src="images/vietnam_development_indicators.png?raw=true"/>
 
 [View Viz: Vietnam Development Indicators](https://public.tableau.com/app/profile/bui.chloe/viz/VietnamDevelopmentIndicator/VietnamDevelopmentIndicators)
 
