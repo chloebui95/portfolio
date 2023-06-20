@@ -11,7 +11,6 @@ This portfolio features a demonstration of utilizing operation research methods 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 ---
-
 ### [PowerBI Revenue Dashboard](https://github.com/chloebui95/powerbi_dashboard)
 This PowerBI dashboard demonstrates how data visualization can be used to analyze sales data and identify key insights that can help optimize revenue stream. 
 
@@ -23,4 +22,32 @@ This PowerBI dashboard demonstrates how data visualization can be used to analyz
 
 [View Dashboard on PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTc0NTJiZDEtNmQzZS00ODNhLThiYWYtMzdjMzg1ZTczZGYwIiwidCI6IjE1NTFmMjY3LTQ1NzAtNGViMy04NzhlLTFlN2FlNDI1MjE4OCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0c68c706183b0931935c)
 
+---
 
+### [Tableau Visualization](https://public.tableau.com/app/profile/bui.chloe)
+With its intuitive interface and robust features, Tableau empowers users to transform raw data into meaningful visual representations, making it an indispensable asset for individuals and organizations seeking to unlock the full potential of their data.
+
+**The Most And Least Powerful Passports 2023**
+
+The visualization below, powered by Tableau, presents the visa-free access of different countries in 2023, based on the data provided by Henley & Partners.
+
+***Laptop View:***
+
+<img src=images/most_powerful_passport.png atl="Laptop View" height="70%" width="70%"></img>
+
+***Phone View:***
+
+<img src=images/most_powerful_passport_phone.png atl="Phone View" height="40%" width="50%"></img>
+
+[View Viz: The most & least powerful passports 2023](https://public.tableau.com/app/profile/bui.chloe/viz/2023TheWorldPassports_16872502465270/Finaldashboard?publish=yes)
+
+---
+**Vietnam Development Indicators 2010-2020**
+
+Vietnam has emerged as a remarkable success story in terms of development. Since the introduction of Đổi Mới in 1986, the country has undergone significant economic reforms and has capitalized on favorable global trends. Here are some key indicators that demonstrate Vietnam's development between 2010 and 2020.
+
+<img src=images/vietnam_development_indicators.png height="100%" width="100%"></img>
+
+[View Viz: Vietnam Development Indicators](https://public.tableau.com/app/profile/bui.chloe/viz/VietnamDevelopmentIndicator/VietnamDevelopmentIndicators)
+
+[![](https://img.shields.io/badge/Tableau-white?logo=tableau)](#)
