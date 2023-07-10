@@ -1,7 +1,15 @@
 ## Featured Projects
 
 ---
+### [Customer Churn Prediction - Telco Dataset](https://github.com/chloebui95/customer_churn_analysis)
 
+This repository demonstrates using scikit-learn to build a customer churn prediction model for a Telecommunications company ([IBM Sample Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)). It covers data processing, model training, and evaluation. By identifying customers at high risk of churn, a targeted retention program can be implemented.
+
+<img src="images/feature_importance.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/scikit_learn-white?logo=scikitlearn)](#)
+
+---
 ### [Workforce Scheduling Optimization](https://github.com/chloebui95/workforce-schedule-optimization)
 
 This portfolio features a demonstration of utilizing operation research methods to address intricate workforce management issues. It showcases the development of an optimized workforce schedule, which effectively utilizes resources to enhance efficiency and productivity.
