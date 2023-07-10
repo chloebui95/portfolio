@@ -1,7 +1,16 @@
+## Other Certifications
+A selection of other courses/ certifications demonstrating specific data science and ML skills.
+
+- Coursera Specilization: [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/94BWV72DWE2D)
+    - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/YDSVKNGMMPXP)
+    - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/PVAXYRQR3UK5)
+    - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/SZ62XSRXJ7J7)
+- freeCodeCamp Certification: [Data Analysis with Python](https://www.freecodecamp.org/certification/chloebui95/data-analysis-with-python-v7)
+
 ## Featured Projects
 
 ---
-### [Customer Churn Prediction - Telco Dataset](https://github.com/chloebui95/customer_churn_analysis)
+### [Customer Churn Prediction](https://github.com/chloebui95/customer_churn_analysis)
 
 This repository demonstrates using scikit-learn to build a customer churn prediction model for a Telecommunications company ([IBM Sample Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)). It covers data processing, model training, and evaluation. By identifying customers at high risk of churn, a targeted retention program can be implemented.
 
