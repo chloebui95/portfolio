@@ -1,9 +1,8 @@
-## Other Certifications
+## Certifications
 
 ---
 
-A selection of other courses/ certifications demonstrating specific data science and ML skills.
-
+**A selection of other courses/ certifications demonstrating specific data science and ML skills.**
 - Coursera Specilization: [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/94BWV72DWE2D)
     - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/YDSVKNGMMPXP)
     - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/PVAXYRQR3UK5)
