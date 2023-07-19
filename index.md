@@ -1,4 +1,4 @@
-## Some Certifications
+## Certifications
 
 A selection of other courses/ certifications demonstrating specific data science and ML skills.
 - Coursera Specilization: [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/94BWV72DWE2D)
@@ -56,7 +56,7 @@ The visualization below, powered by Tableau, presents the visa-free access of di
 ---
 **Vietnam Development Indicators 2010-2020**
 
-Vietnam has emerged as a remarkable success story in terms of development. Since the introduction of Đổi Mới in 1986, the country has undergone significant economic reforms and has capitalized on favorable global trends. Here are some key indicators that demonstrate Vietnam's development between 2010 and 2020.
+Vietnam has emerged as a remarkable success story in terms of development. The country has undergone significant economic reforms and has capitalized on favorable global trends. Here are some key indicators that demonstrate Vietnam's development between 2010 and 2020.
 
 <img src="images/vietnam_development_indicators.png?raw=true"/>
 
